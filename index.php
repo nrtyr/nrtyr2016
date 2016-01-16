@@ -24,11 +24,11 @@
 					<ul>
 						<li class="current"><a href="index.php">Inicio</a></li>
 						<li>
-							<a href="#">Texto</a>
+							<a href="#">Ayuntamiento</a>
 							<ul>
-								<li><a href="#">Texto</a></li>
-								<li><a href="#">Texto</a></li>
-								<li>
+								<li><a href="#">Mensaje de la Presidenta</a></li>
+								<li><a href="#">Regidores</a></li>
+								<!-- <li>
 									<a href="#">Texto</a>
 									<ul>
 										<li><a href="#">Texto</a></li>
@@ -36,13 +36,31 @@
 										<li><a href="#">Texto</a></li>
 										<li><a href="#">Texto</a></li>
 									</ul>
+								</li> -->
+								<li><a href="#">Organigrama</a></li>
+								<li>
+									<a href="#">Dependencias y Organismos</a>
+									<ul>
+										<li><a href="#">DIF</a></li>
+										<li><a href="#">IMCUFIDE</a></li>
+										<li><a href="#">SAPASNIR</a></li>
+									</ul>
 								</li>
-								<li><a href="#">Texto</a></li>
 							</ul>
 						</li>
-						<li><a href="#">Texto</a></li>
-						<li><a href="#">Texto</a></li>
-						<li><a href="#">Texto</a></li>
+						<li><a href="#">Trámites y Servicios</a>
+							<ul>
+								<li><a href="#">Bolsa de Trabajo</a></li>
+								<li><a href="#">Cartilla Militar</a></li>
+								<li><a href="#">Pago de Predial</a></li>
+								<li><a href="#">Pago de Agua</a></li>
+								<li><a href="#">Registro Civil</a></li>
+								<li><a href="#">Servicios Públicos</a></li>
+							</ul>
+						</li>
+
+						<li><a href="#">Noticias</a></li>
+						<li><a href="#">Transparencia</a></li>
 					</ul>
 				</nav>
 
@@ -64,18 +82,18 @@
 								<!-- Highlight -->
 									<section class="box highlight">
 										<ul class="special">
-											<li><a href="#" class="icon fa-calendar-minus-o"><span class="label">Magnifier</span></a></li>
-											<li><a href="#" class="icon fa-camera"><span class="label">Tablet</span></a></li>
-											<li><a href="#" class="icon fa-users"><span class="label">Flask</span></a></li>
-											<li><a href="#" class="icon fa-envelope"><span class="label">Cog?</span></a></li>
+											<li><a href="#" class="icon fa-phone"><span class="label1">Numeros de emergencia</span></a></li>
+											<li><a href="#" class="icon fa-thumbs-o-up"><span class="label1">#Trabajo y Resultados</span></a></li>
+											<li><a href="#" class="icon fa-users"><span class="label1">Atención Ciudadana</span></a></li>
+											<li><a href="#" class="icon fa-envelope"><span class="label1">Contacto <span class="cero">********</span></span></a></li>
 										</ul>
-										<header>
+										<!-- <header>
 											<h2>Título del Artículo</h2>
 											<p>Subtitulo del Artículo</p>
 										</header>
 										<p>
 											Texto del Artículo
-										</p>
+										</p> -->
 									</section>
 
 							</div>
@@ -85,66 +103,39 @@
 
 								<!-- Features -->
 									<section class="box features">
-										<h2 class="major"><span>Separador</span></h2>
+										<h2 class="major"><span>Dependencias y Organismos</span></h2>
 										<div>
-											<div class="row">
-												<div class="3u 12u(mobile)">
-
-													<!-- Feature -->
-														<section class="box feature">
-															<a href="#" class="image featured"><img src="images/pic01.png" alt="" /></a>
-															<h3><a href="#">Título de la imagen</a></h3>
-															<p>
-																Texto de la Imagen.
-															</p>
-														</section>
-
-												</div>
-												<div class="3u 12u(mobile)">
-
-													<!-- Feature -->
-														<section class="box feature">
-															<a href="#" class="image featured"><img src="images/pic01.png" alt="" /></a>
-															<h3><a href="#">Título de la imagen</a></h3>
-															<p>
-																Texto de la Imagen.
-															</p>
-														</section>
-
-												</div>
-												<div class="3u 12u(mobile)">
-
-													<!-- Feature -->
-														<section class="box feature">
-															<a href="#" class="image featured"><img src="images/pic01.png" alt="" /></a>
-															<h3><a href="#">Título de la imagen</a></h3>
-															<p>
-																Texto de la Imagen.
-															</p>
-														</section>
-
-												</div>
-												<div class="3u 12u(mobile)">
-
-													<!-- Feature -->
-														<section class="box feature">
-															<a href="#" class="image featured"><img src="images/pic01.png" alt="" /></a>
-															<h3><a href="#">Título de la imagen</a></h3>
-															<p>
-																Texto de la Imagen.
-															</p>
-														</section>
-
-												</div>
+											<div class="cuadroDir">
+											<div class="cuadroDirChico">
+												<a href="#" class="image featured"><img src="images/dif2.jpg" alt=""></a>
+												<h3><a href="#">DIF</a></h3>
+<!-- 															<p>
+																Desarrollo Integral de la Familia
+															</p> -->
 											</div>
-											<div class="row">
+											<div class="cuadroDirChico">
+												<a href="#" class="image featured"><img src="images/imcufide2.jpg" alt=""></a>
+												<h3><a href="#">IMCUFIDE</a></h3>
+<!-- 															<p>
+																Instituto Municipal de Cultura Física y Deporte
+															</p> -->
+											</div>
+											<div class="cuadroDirChico">
+												<a href="#" class="image featured"><img src="images/sapasnir2.jpg" alt=""></a>
+												<h3><a href="#">SAPASNIR</a></h3>
+<!-- 															<p>
+																Sistema de Agua Potable Alcantarillado y Saneamiento de Nicolás Romero
+															</p> -->
+											</div>
+											</div>
+											<!-- <div class="row">
 												<div class="12u">
 													<ul class="actions">
 														<li><a href="#" class="button big">Boton Uno</a></li>
 														<li><a href="#" class="button alt big">Boton Dos</a></li>
 													</ul>
 												</div>
-											</div>
+											</div> -->
 										</div>
 									</section>
 
@@ -155,7 +146,7 @@
 
 								<!-- Blog -->
 									<section class="box blog">
-										<h2 class="major"><span>Separador</span></h2>
+										<h2 class="major"><span>Blog Oficial de Nicolás Romero</span></h2>
 										<div>
 											<div class="row">
 												<div class="9u 12u(mobile)">
@@ -164,8 +155,8 @@
 														<!-- Featured Post -->
 															<article class="box post">
 																<header>
-																	<h3><a href="#">Título del Blog</a></h3>
-																	<p>Subtitulo del Blog</p>
+																	<h3><a href="#">Participar es tu derecho</a></h3>
+																	<p>La inclusión de la sociedad es fundamental ...</p>
 																	<ul class="meta">
 																		<li class="icon fa-clock-o">Posteado hace 15 mins</li>
 																		<li class="icon fa-comments"><a href="#">8</a></li>
@@ -173,9 +164,13 @@
 																</header>
 																<a href="#" class="image featured"><img src="images/pic05.png" alt="" /></a>
 																<p>
-																	Texto del Blog.
+																	La inclusión de la sociedad es fundamental en el ejercicio de la democracia, es por ello que te invitamos a que participes en el Plan de Desarrollo Municipal 2016 - 2018
+																	<br>
+																	<br>
+																	Envía tus propuestas de mejora, así como también los planes de acción para llevarlos a cabo; Juntos lograremos un municipio próspero, porque Nicolás Romero, Lo Merece Todo
+
 																</p>
-																<a href="#" class="button">Boton Uno D</a>
+																<a href="#" class="button">Participa</a>
 															</article>
 
 													</div>
@@ -246,10 +241,9 @@
 
 			<!-- Footer -->
 				<footer id="footer" class="container">
-					<div class="row 200%">
+					<!-- <div class="row 200%">
 						<div class="12u">
 
-							<!-- About -->
 								<section>
 									<h2 class="major"><span>Separador</span></h2>
 									<p>
@@ -258,7 +252,7 @@
 								</section>
 
 						</div>
-					</div>
+					</div> -->
 					<div class="row 200%">
 						<div class="12u">
 
