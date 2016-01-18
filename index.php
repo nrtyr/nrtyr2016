@@ -3,11 +3,12 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Nicolás Romero 2016 - 2018 Trabajo y Resultados</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta http-equiv="imagetoolbar" content="no">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="assets/css/main.css" />
 	<link rel="stylesheet" href="slide/css/style.css">
 </head>
-<body class="homepage">
+<body class="homepage" expr:id="&quot;post-body-&quot; + data:post.id" itemprop="articleBody" oncontextmenu="return false" ondragstart="return false" onmousedown="return false" onselectstart="return false">
 	<div id="page-wrapper">
 
 			<!-- Header -->
@@ -112,21 +113,21 @@
 										<div>
 											<div class="cuadroDir">
 											<div class="cuadroDirChico">
-												<a href="#" class="image featured"><img src="images/dif2.jpg" alt=""></a>
+												<a href="#"><img src="images/nada.png" alt="dif" class="imgDir1"></a>
 												<h3><a href="#">DIF</a></h3>
 <!-- 															<p>
 																Desarrollo Integral de la Familia
 															</p> -->
 											</div>
 											<div class="cuadroDirChico">
-												<a href="#" class="image featured"><img src="images/imcufide2.jpg" alt=""></a>
+												<a href="#"><img src="images/nada.png" alt="imcufide" class="imgDir2"></a>
 												<h3><a href="#">IMCUFIDE</a></h3>
 <!-- 															<p>
 																Instituto Municipal de Cultura Física y Deporte
 															</p> -->
 											</div>
 											<div class="cuadroDirChico">
-												<a href="#" class="image featured"><img src="images/sapasnir2.jpg" alt=""></a>
+												<a href="#"><img src="images/nada.png" alt="sapasnir" class="imgDir3"></a>
 												<h3><a href="#">SAPASNIR</a></h3>
 <!-- 															<p>
 																Sistema de Agua Potable Alcantarillado y Saneamiento de Nicolás Romero

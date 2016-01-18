@@ -1214,7 +1214,27 @@
 			width: 100%;
 			margin: 0 0 2em 0;
 		}
-
+		.imgDir1{
+			position: relative;
+			background-image: url("images/overlay.png"), url("images/overlay.png"), url("images/dif2.jpg");
+			background-position: top left, top left, center center;
+			background-repeat: repeat, repeat, no-repeat;
+			background-size: auto, auto, cover;
+		}
+		.imgDir2{
+			position: relative;
+			background-image: url("images/overlay.png"), url("images/overlay.png"), url("images/imcufide2.jpg");
+			background-position: top left, top left, center center;
+			background-repeat: repeat, repeat, no-repeat;
+			background-size: auto, auto, cover;
+		}
+		.imgDir3{
+			position: relative;
+			background-image: url("images/overlay.png"), url("images/overlay.png"), url("images/sapasnir2.jpg");
+			background-position: top left, top left, center center;
+			background-repeat: repeat, repeat, no-repeat;
+			background-size: auto, auto, cover;
+		}
 		.image.left {
 			float: left;
 			margin: 0 2em 2em 0;
