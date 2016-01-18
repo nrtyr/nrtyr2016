@@ -88,7 +88,7 @@
 								<!-- Highlight -->
 									<section class="box highlight">
 										<ul class="special">
-											<li><a href="#" class="icon fa-phone"><span class="label1">Numeros de emergencia</span></a></li>
+											<li><a href="#" class="icon fa-phone"><span class="label1">Números de emergencia</span></a></li>
 											<li><a href="#" class="icon fa-thumbs-o-up"><span class="label1">#Trabajo y Resultados</span></a></li>
 											<li><a href="#" class="icon fa-users"><span class="label1">Atención Ciudadana</span></a></li>
 											<li><a href="#" class="icon fa-envelope"><span class="label1">Contacto <span class="cero">***********</span></span></a></li>
@@ -195,7 +195,7 @@
 																		</ul>
 																	</article>
 																</li>
-																<li>
+																<!-- <li>
 																	<article class="box post-summary">
 																		<h3><a href="#">Artículo</a></h3>
 																		<ul class="meta">
@@ -230,7 +230,7 @@
 																			<li class="icon fa-comments"><a href="#">27</a></li>
 																		</ul>
 																	</article>
-																</li>
+																</li> -->
 															</ul>
 															<a href="#" class="button alt">Más Artículos</a>
 
@@ -281,6 +281,8 @@
 						<div id="copyright">
 							<ul class="menu">
 								<li>&copy; Todos los derechos reservados</li><li>Creado por: <a href="#">H. Ayuntamiento de Nicolás Romero 2016 - 2018</a></li>
+								<br>
+								<p>Av. Juarez s/n Col. Centro Nicolás Romero, Estado de México C.P. 54400 Tel: 58-71-25-00</p>
 							</ul>
 						</div>
 

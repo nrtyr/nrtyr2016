@@ -17,6 +17,22 @@
 			background-size: auto, auto, cover;
 			z-index: 1;
 		}
+		.overlay2{
+			position: relative;
+			background-image: url("img/overlay.png"), url("img/overlay.png"), url("img/banner2.png");
+			background-position: top left, top left, center center;
+			background-repeat: repeat, repeat, no-repeat;
+			background-size: auto, auto, cover;
+			z-index: 1;
+		}
+		.overlay3{
+			position: relative;
+			background-image: url("img/overlay.png"), url("img/overlay.png"), url("img/banner3.png");
+			background-position: top left, top left, center center;
+			background-repeat: repeat, repeat, no-repeat;
+			background-size: auto, auto, cover;
+			z-index: 1;
+		}
 		.cycle-slideshow{
 			width: 100%;
 			max-width: 2000px;
