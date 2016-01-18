@@ -5,6 +5,7 @@
 	<title>Nicolás Romero 2016 - 2018 Trabajo y Resultados</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<link rel="stylesheet" href="assets/css/main.css" />
+	<link rel="stylesheet" href="slide/css/style.css">
 </head>
 <body class="homepage">
 	<div id="page-wrapper">
@@ -65,13 +66,17 @@
 				</nav>
 
 			<!-- Banner -->
-				<div id="banner-wrapper">
-					<section id="banner">
-						<!-- <h2>Título</h2>
+				<!-- <div id="banner-wrapper"> -->
+
+					<?php include("slide/slide.php"); ?>
+					
+
+					<!-- <section id="banner">
+						<h2>Título</h2>
 						<p>Gobierno de Trabajo y Resultados</p>
-						<a href="#" class="button">Texto</a> -->
+						<a href="#" class="button">Texto</a>
 					</section>
-				</div>
+				</div> -->
 
 			<!-- Main -->
 				<div id="main-wrapper">
@@ -290,5 +295,6 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
+			<script type="text/javascript" src="assets/js/jquery.cycle2.js"></script>
 </body>
 </html>
