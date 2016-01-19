@@ -1765,6 +1765,47 @@
 			padding-top: 200px;
 			color: #577833;
 		}
+		.regidores{
+			width: 100%;
+			text-align: center;
+		}
+		.cuadroReg{
+			display: inline-block;
+			position: relative;
+			margin: 0px 10px 20px 10px;
+			width: 254px;
+			height: 382px;
+			
+		}
+		.cimgReg{
+			border: 1px solid #607D8B;
+			-webkit-border-radius: 10px 10px 0px 0px;
+			        border-radius: 10px 10px 0px 0px;
+			width: 254px;
+			height: 254px;
+		}
+		.cimgReg.hombre{
+			background-image: url('images/icons/hombre.png');
+		}
+		.cimgReg.mujer{
+			background-image: url('images/icons/mujer.png');
+		}
+		.ctxtReg{
+			position: absolute;
+			background-color: #607D8B;
+			color: #FFF;
+			padding: 5px;
+			border: 1px solid #607D8B;
+			-webkit-border-radius: 0px 0px 10px 10px;
+			        border-radius: 0px 0px 10px 10px;
+			margin: auto;
+			width: 254px;
+			height: 100px;
+			text-align: center;
+			font-family: 'Open Sans Condensed', sans-serif;
+			font-weight: 700;
+			text-transform: uppercase;
+		}
 		.hackuna{
 			text-align: center;
 			width: auto;
@@ -2311,6 +2352,48 @@
 			        border-radius: 10px;
 			width: 100%;
 			
+		}
+		.regidores{
+			margin-top: 60px;
+			width: 100%;
+			text-align: center;
+		}
+		.cuadroReg{
+			display: inline-block;
+			position: relative;
+			margin: 0px 10px 20px 10px;
+			width: 254px;
+			height: 382px;
+			
+		}
+		.cimgReg{
+			border: 1px solid #607D8B;
+			-webkit-border-radius: 10px 10px 0px 0px;
+			        border-radius: 10px 10px 0px 0px;
+			width: 254px;
+			height: 254px;
+		}
+		.cimgReg.hombre{
+			background-image: url('images/icons/hombre.png');
+		}
+		.cimgReg.mujer{
+			background-image: url('images/icons/mujer.png');
+		}
+		.ctxtReg{
+			position: absolute;
+			background-color: #607D8B;
+			color: #FFF;
+			padding: 5px;
+			border: 1px solid #607D8B;
+			-webkit-border-radius: 0px 0px 10px 10px;
+			        border-radius: 0px 0px 10px 10px;
+			margin: auto;
+			width: 254px;
+			height: 100px;
+			text-align: center;
+			font-family: 'Open Sans Condensed', sans-serif;
+			font-weight: 700;
+			text-transform: uppercase;
 		}
 
 		/* Section/Article */
