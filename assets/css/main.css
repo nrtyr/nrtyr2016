@@ -1806,6 +1806,9 @@
 			font-weight: 700;
 			text-transform: uppercase;
 		}
+		.ctxtReg span .txtLargo{
+			font-size: 14px;
+		}
 		.hackuna{
 			text-align: center;
 			width: auto;

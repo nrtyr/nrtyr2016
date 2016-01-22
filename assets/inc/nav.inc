@@ -6,7 +6,7 @@
 							<a href="#">Ayuntamiento</a>
 							<ul>
 								<li><a href="#">Mensaje de la Presidenta</a></li>
-								<li><a href="ayuntaRegidores.php">Regidores</a></li>
+								<li><a href="ayuntaCabildo.php">Cabildo</a></li>
 								<!-- <li>
 									<a href="#">Texto</a>
 									<ul>
