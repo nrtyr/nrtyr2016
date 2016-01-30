@@ -21,6 +21,7 @@
 
 						</div>
 					</div> -->
+					
 					<div class="row 200%">
 						<div class="12u">
 
@@ -28,16 +29,18 @@
 								<section>
 									<h2 class="major"><span>Redes sociales</span></h2>
 									<ul class="contact">
-										<li><a class="icon fa-facebook" href="#"><span class="label">Facebook</span></a></li>
-										<li><a class="icon fa-twitter" href="#"><span class="label">Twitter</span></a></li>
-										<li><a class="icon fa-instagram" href="#"><span class="label">Instagram</span></a></li>
-										<li><a class="icon fa-youtube" href="#"><span class="label">Youtube</span></a></li>
+										<li><a class="icon fa-facebook" href="https://www.facebook.com/H.Aytto.NicolasRomero/"><span class="label">Facebook</span></a></li>
+										<li><a class="icon fa-twitter" href="https://twitter.com/_NicolasRomero_?lang=es "><span class="label">Twitter</span></a></li>
+										<!-- <li><a class="icon fa-instagram" href="#"><span class="label">Instagram</span></a></li>
+										<li><a class="icon fa-youtube" href="#"><span class="label">Youtube</span></a></li> -->
+										<a href="https://play.google.com/store/apps/details?id=tv.periscope.android&hl=mx"><div class="periscope"></div></a>
 										<!-- <li><a class="icon fa-google-plus" href="#"><span class="label">Google+</span></a></li> -->
 									</ul>
 								</section>
 
 						</div>
 					</div>
+
 
 					<!-- Copyright -->
 						<div id="copyright">
