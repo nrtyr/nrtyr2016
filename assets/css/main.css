@@ -1689,8 +1689,13 @@
 
 		.icon > .label1 {
 /*			display: none;*/
-			display: inherit;
-			padding-top: 120px;
+			width: 100%;
+			height: 50px;
+			display: block;
+			margin: auto;
+			text-align: center;
+			position: absolute;
+			bottom: -55px;
 			color: #577833;
 		}
 		.icon > .label {
@@ -1800,8 +1805,6 @@
 	@media screen and (min-width: 737px) {
 			.icon > .label1 {
 /*			display: none;*/
-			display: inherit;
-			padding-top: 200px;
 			color: #577833;
 		}
 		.regidores{
@@ -1861,9 +1864,6 @@
 				display: inherit;
 				width: auto;
 			}
-		.cero{
-			display: none;
-		}
 		/* Basic */
 
 			h1, h2, h3, h4, h5, h6 {
