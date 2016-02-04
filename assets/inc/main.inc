@@ -10,7 +10,7 @@
 											<li><a href="telEmergencia.php" class="icon fa-phone"><span class="label1">Números de emergencia</span></a></li>
 											<li><a href="#" class="icon fa-thumbs-o-up"><span class="label1">#Trabajo y Resultados</span></a></li>
 											<li><a href="#" class="icon fa-users"><span class="label1">Atención Ciudadana</span></a></li>
-											<li><a href="#" class="icon fa-envelope"><span class="label1">Contacto</span></a></li>
+											<li><a href="http://webmail.nicolasromero.mx" class="icon fa-envelope"><span class="label1">Correo Institucional</span></a></li>
 										</ul>
 										<!-- <header>
 											<h2>Título del Artículo</h2>

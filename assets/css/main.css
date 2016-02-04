@@ -1710,7 +1710,7 @@
 		background-position: top left, top left, center center;
 		background-repeat: repeat, repeat, no-repeat;
 		background-size: auto, auto, cover;
-		z-index: 1;
+		z-index: 99;
 	}
 
 	#main-wrapper {
@@ -1981,6 +1981,79 @@
 			.box.page-content ul.meta {
 				margin: 0 0 0.5em 0;
 			}
+
+		/*Cuadro Sitios de Interes  */	
+		
+		.cuadroInteres{
+			width: 100%;
+			height: auto;
+			text-align: center;
+		}
+		.cuadroIntChico{
+			width: 100%;
+			height: auto;
+		}
+		.cuadroIntX{
+			width: auto;
+			height: 100%;
+			display: inline-block;
+			margin: 0 1em;
+			margin-bottom: 80px;
+		}
+		.cuadroIntimg{
+			width: 100px;
+			height: 100px;
+			-webkit-border-radius: 10px;
+			        border-radius: 10px;
+			background-color: grey;
+		}
+		.cuadroIntimg2{
+			width: 200px;
+			height: 100px;
+			-webkit-border-radius: 10px;
+			        border-radius: 10px;
+			border: 1px solid;
+			border-color: #BFBFBF;
+		}
+		.cuadroIntimg2:hover {
+			opacity:.5;
+			-moz-transition: opacity .2s ease-in-out;
+			-webkit-transition: opacity .2s ease-in-out;
+			-ms-transition: opacity .2s ease-in-out;
+			transition: opacity .2s ease-in-out;
+		}
+
+		#infoem{
+			background-image: url("../../images/logoInfoem.svg");
+			background-size: cover;
+		}
+		#ipomex{
+			background-image: url("../../images/logoipomex.svg");
+			background-size: cover;
+		}
+		#conac{
+			background-image: url("../../images/logoConac.svg");
+			background-size: cover;
+		}
+		#saimex{
+			background-image: url("../../images/logoSaimex.svg");
+			background-size: cover;
+		}
+
+		.cuadroInttxt{
+			width: 100px;
+			position: absolute;
+			margin-top: 10px;
+			line-height: normal;
+			
+		}
+		.cuadroInttxt2{
+			width: 200px;
+			position: absolute;
+			margin-top: 10px;
+			line-height: normal;
+			
+		}
 
 		/* cuadroDir Desktop*/	
 		
@@ -2399,6 +2472,9 @@
 			width: 100%;
 			
 		}
+
+
+
 		.regidores{
 			margin-top: 60px;
 			width: 100%;
