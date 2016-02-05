@@ -2090,6 +2090,12 @@
 			margin: 0 1em;
 			margin-bottom: 10px;
 		}
+		.cuadroVideo{
+			display: inline-block;
+			width: 420px;
+			margin: 0 1em;
+			margin-bottom: 10px;
+		}
 		.cuadroDirChico img{
 			-webkit-border-radius: 10px;
 			        border-radius: 10px;
@@ -2485,6 +2491,12 @@
 			text-align: center;
 		}
 		.cuadroDirChico{
+			display: inline-block;
+			width: auto;
+			margin: 0 1em;
+			margin-bottom: 10px;
+		}
+		.cuadroVideo{
 			display: inline-block;
 			width: auto;
 			margin: 0 1em;
