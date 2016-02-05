@@ -8,32 +8,32 @@
 											<div class="cuadroIntChico">
 												<div class="cuadroIntX">
 												<a href="http://www.presidencia.gob.mx">
-													<div class="cuadroIntimg"></div>
+													<div class="cuadroIntimg" id="gobmx"></div>
 													<div class="cuadroInttxt"><h6>Presidencia de la República</h6></div>
 												</a>
 												</div>
 												<div class="cuadroIntX">
 												<a href="http://edomex.gob.mx">
-													<div class="cuadroIntimg"></div>
+													<div class="cuadroIntimg" id="edomex"></div>
 													<div class="cuadroInttxt"><h6>Gobierno del Estado de México</h6></div>
 												</a>
 												</div>
 												<div class="cuadroIntX">
 												<a href="http://www.conac.gob.mx/es/CONAC/Normatividad_Vigente">
-													<div class="cuadroIntimg"></div>
-													<div class="cuadroInttxt"><h6>Ley General de Contabilidad Gubernamental</h6></div>
+													<div class="cuadroIntimg" id="marcoJuridi"></div>
+													<div class="cuadroInttxt"><h6>Marco Jurídico</h6></div>
 												</a>
 												</div>
 												<div class="cuadroIntX">
 												<a href="#">
-													<div class="cuadroIntimg"></div>
+													<div class="cuadroIntimg" id="turismo"></div>
 													<div class="cuadroInttxt"><h6>Zonas Turísticas</h6></div>
 												</a>
 												</div>
 												<div class="cuadroIntX">
 												<a href="#">
 													<div class="cuadroIntimg"></div>
-													<div class="cuadroInttxt"><h6>Nicolás Romero en la Histora</h6></div>
+													<div class="cuadroInttxt"><h6>Nicolás Romero en la Historia</h6></div>
 												</a>
 												</div>
 												<br>

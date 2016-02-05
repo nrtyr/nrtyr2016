@@ -2005,7 +2005,6 @@
 			height: 100px;
 			-webkit-border-radius: 10px;
 			        border-radius: 10px;
-			background-color: grey;
 		}
 		.cuadroIntimg2{
 			width: 200px;
@@ -2021,6 +2020,31 @@
 			-webkit-transition: opacity .2s ease-in-out;
 			-ms-transition: opacity .2s ease-in-out;
 			transition: opacity .2s ease-in-out;
+		}
+		.cuadroIntimg:hover{
+			opacity:.5;
+			-moz-transition: opacity .2s ease-in-out;
+			-webkit-transition: opacity .2s ease-in-out;
+			-ms-transition: opacity .2s ease-in-out;
+			transition: opacity .2s ease-in-out;
+		}
+
+
+		#gobmx{
+			background-image: url("../../images/logogobmx2.svg");
+			background-size: cover;
+		}
+		#edomex{
+			background-image: url("../../images/logoedomex2.svg");
+			background-size: cover;
+		}
+		#marcoJuridi{
+			background-image: url("../../images/marcoJuridi.svg");
+			background-size: cover;
+		}
+		#turismo{
+			background-image: url("../../images/logoTurismo.svg");
+			background-size: cover;
 		}
 
 		#infoem{
