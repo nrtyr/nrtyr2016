@@ -54,7 +54,7 @@
 												</a>
 												</div>
 												<div class="cuadroIntX">
-												<a href="http://www.conac.gob.mx">
+												<a href="#">
 													<div class="cuadroIntimg2" id="conac"></div>
 													<div class="cuadroInttxt2"><h6>CONAC</h6></div>
 												</a>

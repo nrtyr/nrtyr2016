@@ -6,6 +6,7 @@
 							<a href="#">Ayuntamiento</a>
 							<ul>
 								<li><a href="#">Mensaje de la Presidenta</a></li>
+								<li><a href="ayuntaBando.php">Bando Municipal</a></li>
 								<li><a href="ayuntaCabildo.php">Cabildo</a></li>
 								<!-- <li>
 									<a href="#">Texto</a>
@@ -39,6 +40,6 @@
 						</li>
 
 						<li><a href="#">Noticias</a></li>
-						<li><a href="#">Transparencia</a></li>
+						<li><a href="http://www.ipomex.org.mx/ipo/portal/nicolasromero.web">Transparencia</a></li>
 					</ul>
 				</nav>

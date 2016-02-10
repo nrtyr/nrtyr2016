@@ -11,26 +11,26 @@
 		}
 		.overlay{
 			position: relative;
-			background-image: url("img/overlay.png"), url("img/overlay.png"), url("img/banner.png");
-			background-position: top left, top left, center center;
-			background-repeat: repeat, repeat, no-repeat;
-			background-size: auto, auto, cover;
+			background-image: url("img/banner.png");
+			background-position: center center;
+			background-repeat:  no-repeat;
+			background-size: cover;
 			z-index: 1;
 		}
 		.overlay2{
 			position: relative;
-			background-image: url("img/overlay.png"), url("img/overlay.png"), url("img/banner2.png");
-			background-position: top left, top left, center center;
-			background-repeat: repeat, repeat, no-repeat;
-			background-size: auto, auto, cover;
+			background-image: url("img/banner2.png");
+			background-position: center center;
+			background-repeat:  no-repeat;
+			background-size: cover;
 			z-index: 1;
 		}
 		.overlay3{
 			position: relative;
-			background-image: url("img/overlay.png"), url("img/overlay.png"), url("img/banner3.png");
-			background-position: top left, top left, center center;
-			background-repeat: repeat, repeat, no-repeat;
-			background-size: auto, auto, cover;
+			background-image: url("img/banner3.png");
+			background-position: center center;
+			background-repeat:  no-repeat;
+			background-size: cover;
 			z-index: 1;
 		}
 		.cycle-slideshow{
