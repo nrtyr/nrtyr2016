@@ -39,7 +39,7 @@
 							</ul>
 						</li>
 
-						<li><a href="#">Noticias</a></li>
+						<li><a href="https://www.facebook.com/H.Aytto.NicolasRomero">Noticias</a></li>
 						<li><a href="http://www.ipomex.org.mx/ipo/portal/nicolasromero.web">Transparencia</a></li>
 					</ul>
 				</nav>

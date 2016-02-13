@@ -19,7 +19,7 @@
 												</a>
 												</div>
 												<div class="cuadroIntX">
-												<a href="http://www.conac.gob.mx/es/CONAC/Normatividad_Vigente">
+												<a href="http://www.ipomex.org.mx/ipo/portal/nicolasromero/marcoJuridico.web">
 													<div class="cuadroIntimg" id="marcoJuridi"></div>
 													<div class="cuadroInttxt"><h6>Marco Jurídico</h6></div>
 												</a>
@@ -31,8 +31,14 @@
 												</a>
 												</div>
 												<div class="cuadroIntX">
+												<a href="conac.php">
+													<div class="cuadroIntimg" id="conac2"></div>
+													<div class="cuadroInttxt"><h6>CONAC</h6></div>
+												</a>
+												</div>
+												<div class="cuadroIntX">
 												<a href="#">
-													<div class="cuadroIntimg"></div>
+													<div class="cuadroIntimg" id="historia"></div>
 													<div class="cuadroInttxt"><h6>Nicolás Romero en la Historia</h6></div>
 												</a>
 												</div>
@@ -53,18 +59,18 @@
 													<div class="cuadroInttxt2"><h6>SAIMEX</h6></div>
 												</a>
 												</div>
-												<div class="cuadroIntX">
+												<!-- <div class="cuadroIntX">
 												<a href="#">
 													<div class="cuadroIntimg2" id="conac"></div>
 													<div class="cuadroInttxt2"><h6>CONAC</h6></div>
 												</a>
-												</div>
-												<div class="cuadroIntX">
+												</div> -->
+												<!-- <div class="cuadroIntX">
 												<a href="http://www.ipomex.org.mx/ipo/portal/nicolasromero.web">
 													<div class="cuadroIntimg2" id="ipomex"></div>
 													<div class="cuadroInttxt2"><h6>ipomex</h6></div>
 												</a>
-												</div>
+												</div> -->
 
 											</div>
 										</div>

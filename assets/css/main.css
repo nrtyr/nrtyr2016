@@ -2046,13 +2046,17 @@
 			background-image: url("../../images/logoTurismo.svg");
 			background-size: cover;
 		}
+		#historia{
+			background-image: url("../../images/logoHistoria.svg");
+			background-size: cover;
+		}
 
 		#infoem{
 			background-image: url("../../images/logoInfoem.svg");
 			background-size: cover;
 		}
 		#ipomex{
-			background-image: url("../../images/logoipomex.svg");
+			background-image: url("../../images/logoIpomex.svg");
 			background-size: cover;
 		}
 		#conac{
@@ -2061,6 +2065,10 @@
 		}
 		#saimex{
 			background-image: url("../../images/logoSaimex.svg");
+			background-size: cover;
+		}
+		#conac2{
+			background-image: url("../../images/logoConac2.svg");
 			background-size: cover;
 		}
 

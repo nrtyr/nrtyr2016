@@ -40,7 +40,8 @@ include('assets/inc/nav.inc');
 						<i class="fa fa-file-pdf-o"></i> B Norma para establecer la estructura del Calendario de Ingresos base mensual.
 					</a></li>
 
-					<li><a href="pdf/2c_IV_TRIM_Montos_Pagados_por_Ayudas_y_Subsidios_2015.pdf">
+					<!-- <li><a href="pdf/2c_IV_TRIM_Montos_Pagados_por_Ayudas_y_Subsidios_2015.pdf"> -->
+					<li><a href="#">
 						<i class="fa fa-file-pdf-o"></i> C Norma para establecer la estructura de información de montos pagados por ayudas y subsidios.
 					</a></li>
 
@@ -80,7 +81,8 @@ include('assets/inc/nav.inc');
 						<i class="fa fa-file-pdf-o"></i> C Normas y modelo de estructura de información relativa a los Fondos de Ayuda Federal para la Seguridad Pública.
 					</a></li>
 
-					<li><a href="pdf/4d_IV_TRIM_FORMATO_INF _OBLIG_PAGADERAS_O_GARANT_CON_FDOS_FED.pdf">
+					<!-- <li><a href="pdf/4d_IV_TRIM_FORMATO_INF _OBLIG_PAGADERAS_O_GARANT_CON_FDOS_FED.pdf"> -->
+					<li><a href="#">
 						<i class="fa fa-file-pdf-o"></i> D Norma para establecer la estructura de los formatos de información de obligaciones pagadas o garantizadas con fondos federales.
 					</a></li>
 
