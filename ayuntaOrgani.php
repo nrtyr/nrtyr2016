@@ -14,7 +14,7 @@ include('assets/inc/nav.inc');
 <!-- Cuadro Bando Municipal -->			
 
 <!-- Cuadro PDF -->		
-				<object data="pdf/BANDO.pdf" type="application/pdf" width='100%' height='880'></object>
+				<object data="pdf/Organigrama.pdf" type="application/pdf" width='100%' height='880'></object>
 <!-- Cuadro PDF -->			
 				<?php 
  // Creamos array de móviles  
@@ -23,7 +23,7 @@ include('assets/inc/nav.inc');
  foreach( $mobiles as $mobiles ) {  
    if( preg_match('#'.$mobile.'#i',$_SERVER['HTTP_USER_AGENT'])){  
 // Si da 'true' redigirimos el contenido  
-  	header('Location:pdf/BANDO.pdf');  
+  	header('Location:pdf/Organigrama.pdf');  
         exit();  
      
    } else{

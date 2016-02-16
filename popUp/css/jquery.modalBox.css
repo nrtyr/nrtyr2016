@@ -41,13 +41,13 @@ div.modal-box.active {
 /* line 35, ../scss/jquery.modalBox.scss */
 div.modal-box > .inner {
   background: #fbfbfb;
-  color: #101010;
-  padding: 25px 35px;
-  margin: 100px auto;
-  width: 600px;
-  height: auto;
-  box-sizing: border-box;
-  position: relative;
+    color: #101010;
+    padding: 25px 35px;
+    margin: 1.5% auto;
+    width: 600px;
+    height: auto;
+    box-sizing: border-box;
+    position: relative;
 }
 
 /* Moviles */

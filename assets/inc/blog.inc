@@ -14,12 +14,12 @@
 																<header>
 																	<h3><a href="#">Participar es tu derecho</a></h3>
 																	<p>La inclusión de la sociedad es fundamental ...</p>
-																	<ul class="meta">
+																	<!-- <ul class="meta">
 																		<li class="icon fa-clock-o">Posteado hace 15 mins</li>
 																		<li class="icon fa-comments"><a href="#">8</a></li>
-																	</ul>
+																	</ul> -->
 																</header>
-																<a href="#" class="image featured"><img src="images/pic05.png" alt="" /></a>
+																<a href="convocatoria.php" class="image featured"><img src="images/pic05.png" alt="" /></a>
 																<p>
 																	La inclusión de la sociedad es fundamental en el ejercicio de la democracia, es por ello que te invitamos a que participes en el Plan de Desarrollo Municipal 2016 - 2018
 																	<br>
@@ -27,7 +27,7 @@
 																	Envía tus propuestas de mejora, así como también los planes de acción para llevarlos a cabo; Juntos lograremos un municipio próspero, porque Nicolás Romero, Lo Merece Todo
 
 																</p>
-																<a href="#" class="button">Participa</a>
+																<a href="convocatoria.php" class="button">Participa</a>
 															</article>
 
 													</div>

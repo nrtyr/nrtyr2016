@@ -20,8 +20,8 @@
 															</p> -->
 											</div>
 											<div class="cuadroDirChico">
-												<a href="#"><img src="images/nada.png" alt="sapasnir" class="imgDir3"></a>
-												<h3><a href="#">SAPASNIR</a></h3>
+												<a href="http://www.sapasnir.mx"><img src="images/nada.png" alt="sapasnir" class="imgDir3"></a>
+												<h3><a href="http://www.sapasnir.mx">SAPASNIR</a></h3>
 <!-- 															<p>
 																Sistema de Agua Potable Alcantarillado y Saneamiento de Nicolás Romero
 															</p> -->

@@ -19,6 +19,7 @@
             /* BIND CLOSE BUTTON */
             app.$el.find(".close").click(function(){
                 app.close();
+                window.location='../index.php';
             });
 
             if ( app.options.closeOnEscape ) {
@@ -30,6 +31,7 @@
             app.$el.click(function(e){
                 if ( $(e.target).closest(".inner").length ) return;
                 app.close();
+                window.location='../index.php';
             });
 
             app.hasCssTransitionSupport = app.detectCSSFeature("transition");

@@ -1829,6 +1829,10 @@
 			        border-radius: 10px 10px 0px 0px;
 			width: 254px;
 			height: 254px;
+			background-position: 50% 50%;
+			-webkit-background-size: cover;
+			     -o-background-size: cover;
+			        background-size: cover;
 		}
 		.cimgReg.hombre{
 			background-image: url('images/icons/hombre.png');
@@ -1836,6 +1840,43 @@
 		.cimgReg.mujer{
 			background-image: url('images/icons/mujer.png');
 		}
+
+		/* Regidores */
+		.cimgReg.primera{
+			background-image: url('images/regidores/Kisel-Gabriela-Olivares-Hernandez-768x734.jpg');
+			
+		}
+		.cimgReg.segundo{
+			background-image: url('images/regidores/Fernando-Garibay-Palomino-768x734.jpg');
+			
+		}
+		.cimgReg.tercera{
+			background-image: url('images/regidores/Karla-Trejo-Hernandez-768x734.jpg');
+			
+		}
+		.cimgReg.cuarto{
+			background-image: url('images/regidores/Joan-Manuel-Hernandez-Anaya-768x734.jpg');
+			
+		}
+		.cimgReg.quinta{
+			background-image: url('images/regidores/Arabela-Hoppe-Mercado-768x734.jpg');
+			
+		}
+		.cimgReg.septima{
+			background-image: url('images/regidores/Rita-Maria-Del-Carmen-Garduno-Rivera-768x734.jpg');
+			
+		}
+		.cimgReg.octavo{
+			background-image: url('images/regidores/Julio-Becerril-Santos-768x734.jpg');
+			
+		}
+		.cimgReg.decimoSegundo{
+			background-image: url('images/regidores/Arturo-Nava-Alanis-768x734.jpg');
+			
+		}
+
+		/* Regidores */
+
 		.ctxtReg{
 			position: absolute;
 			background-color: #607D8B;
@@ -1854,6 +1895,9 @@
 		}
 		.ctxtReg span .txtLargo{
 			font-size: 14px;
+		}
+		.ctxtReg span .txtLargo2{
+			font-size: 13px;
 		}
 		.hackuna{
 			text-align: center;
@@ -2086,9 +2130,85 @@
 			line-height: normal;
 			
 		}
+		/* Logos NR */
+		
+		.cuadroNR{
+			width: 100%;
+			height: 150px;
+			text-align: center;
+			
+		}
+		.cuadroNRc1{
+			float: left;
+			display: inline-block;
+			width: 150px;
+			height: 150px;
+			background-image: url('images/logos/logoHAyunta.png');
+			background-repeat: no-repeat;
+			background-position: 50% 50%;
+			-webkit-background-size: cover;
+			     -o-background-size: cover;
+			        background-size: cover;
+			margin-left: 80px;
+			
+		}
+		.cuadroNRc2{
+			margin: 40px auto;
+			display: inline-block;
+			width: 400px;
+			
+		}
+		.cuadroNRc3{
+			float: right;
+			display: inline-block;
+			width: 150px;
+			height: 150px;
+			background-image: url('images/logos/logoNR.png');
+			background-repeat: no-repeat;
+			background-position: 50% 50%;
+			-webkit-background-size: cover;
+			     -o-background-size: cover;
+			        background-size: cover;
+			margin-right: 80px;
+			
+		}
+		
+
+		/* Logos NR*/
 
 		/* Cuadro Articulo */
 		
+		.formConvoca{
+			clear: both;
+			margin: 0px auto;
+			padding: 10px;
+			text-align: left;
+			width: 50%;
+			background-color: red;
+		}
+		.formConvoca *{
+			margin: 0px;
+			padding: 0px;
+		}
+		.formConvoca input[type="text"]{
+			border: 1px solid #DBE1EB;
+  font-size: 18px;
+  font-family: Arial, Verdana;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -o-border-radius: 4px;
+  background: #FFFFFF;
+  background: linear-gradient(left, #FFFFFF, #F7F9FA);
+  background: -moz-linear-gradient(left, #FFFFFF, #F7F9FA);
+  background: -webkit-linear-gradient(left, #FFFFFF, #F7F9FA);
+  background: -o-linear-gradient(left, #FFFFFF, #F7F9FA);
+  color: #2E3133;
+		}
 
 		.bloqueArticulo{
 			clear: both;
@@ -2096,6 +2216,13 @@
 			width: 90%;
 			text-align: center;
 			margin: 0 auto;
+			background-image: url('images/logos/background.png');
+			background-repeat: no-repeat;
+			background-position: 50% 50%;
+			-webkit-background-size: cover;
+			     -o-background-size: cover;
+			        background-size: cover;
+			background-attachment: fixed;
 		}
 		.pArticulo{
 			display: block;
@@ -2103,6 +2230,60 @@
 			text-align: left;
 			width: 78%;
 			font-weight: bold;
+		}
+		.subRojo{
+			font-size: 23px;
+			color: #93b535;
+		}
+		.pJustifi{
+			display: block;
+			margin: 0 auto;
+			width: 70%;
+			text-align : justify;
+		}
+		.liJustifi{			
+			margin: 0 auto;
+			width: 70%;
+			text-align : justify;
+
+			padding: 0px 0px 0px 80px;
+		}
+		.tablaTresC{
+			display: block;
+			margin: 0 auto;
+			width: 70%;
+			-webkit-border-radius: 10px;
+			        border-radius: 10px;
+			background-color: #E6F2D6;
+		}
+		.cTab{
+			text-align: left;
+			padding: 10px 5px 10px 20px;
+		}
+		.cTab.reca{
+			font-weight: bold;
+			padding: 0px;
+			text-align: center;
+			background-color: #DAE5CB;
+		}
+		.cTab.reca.f{
+			-webkit-border-radius: 0px 0px 0px 10px;
+			        border-radius: 0px 0px 0px 10px;
+		}
+		.cTab.enca{
+			padding: 10px;
+			text-align: center;
+			font-weight: bold;
+			color: #FFF;
+			background-color: #93b535;
+		}
+		.cTab.enca.i{
+			-webkit-border-radius: 10px 0px 0px 0px;
+			        border-radius: 10px 0px 0px 0px;
+		}
+		.cTab.enca.f{
+			-webkit-border-radius: 0px 10px 0px 0px;
+			        border-radius: 0px 10px 0px 0px;
 		}
 		.cuadroArticulo{
 			display: block;
@@ -2526,6 +2707,97 @@
 			h3 {
 				font-size: 1.25em;
 			}
+
+		/* Logos NR */
+		
+		.cuadroNRc1{
+			display: none;
+		}
+		.cuadroNRc3{
+			display: none;
+		}
+		
+
+		/* Logos NR*/
+
+		/* Cuadro Articulo Movil */
+		
+
+		.bloqueArticulo{
+			clear: both;
+			display: block;
+			width: 100%;
+			text-align: center;
+			margin: 0px auto;
+		}
+		.bloqueArticulo h2{
+			margin-top: 100px;
+		}
+		.pArticulo{
+			display: block;
+			margin: 0 auto;
+			text-align: left;
+			width: 78%;
+			font-weight: bold;
+		}
+		.subRojo{
+			font-size: 23px;
+			color: #93b535;
+		}
+		.pJustifi{
+			display: block;
+			margin: 0 auto;
+			width: 90%;
+			text-align : justify;
+		}
+		.liJustifi{			
+			margin: 0 auto;
+			width: 90%;
+			text-align : justify;
+
+			padding: 0px 0px 0px 80px;
+		}
+		.tablaTresC{
+			display: block;
+			margin: 0 auto;
+			width: 90%;
+			
+		}
+		.cTab{
+			display: block;
+			margin: 0 auto;
+			text-align: left;
+			padding: 10px 5px 10px 20px;
+			background-color: #E6F2D6;
+		}
+		.cTab.reca{
+			font-weight: bold;
+			padding: 0px;
+			text-align: center;
+			background-color: #DAE5CB;
+		}
+		.cTab.enca{
+			display: none;
+		}
+		
+		.cuadroArticulo{
+			display: block;
+			width: 80%;
+			padding: 10px 10px 10px 20px;
+			text-align: left;
+			margin: 0 auto;
+		}
+		.cuadroArticulo li{
+			list-style: none;
+		}
+		.fa.fa-file-pdf-o{
+			font-size: 20px;
+			margin: 0px 20px 0px 20px;
+		}
+
+		/* Cuadro Articulo Movil */
+
+
 		/* cuadroDir Movile*/	
 		.cuadroDir{
 			margin-top: -5%;
@@ -2576,6 +2848,10 @@
 			        border-radius: 10px 10px 0px 0px;
 			width: 254px;
 			height: 254px;
+			background-position: 50% 50%;
+			-webkit-background-size: cover;
+			     -o-background-size: cover;
+			        background-size: cover;
 		}
 		.cimgReg.hombre{
 			background-image: url('images/icons/hombre.png');
@@ -2583,6 +2859,41 @@
 		.cimgReg.mujer{
 			background-image: url('images/icons/mujer.png');
 		}
+
+		/* Regidores Moviles*/
+		.cimgReg.primera{
+			background-image: url('images/regidores/Kisel-Gabriela-Olivares-Hernandez-768x734.jpg');
+			
+		}
+		.cimgReg.segundo{
+			background-image: url('images/regidores/Fernando-Garibay-Palomino-768x734.jpg');
+			
+		}
+		.cimgReg.tercera{
+			background-image: url('images/regidores/Karla-Trejo-Hernandez-768x734.jpg');
+			
+		}
+		.cimgReg.cuarto{
+			background-image: url('images/regidores/Joan-Manuel-Hernandez-Anaya-768x734.jpg');
+			
+		}
+		.cimgReg.quinta{
+			background-image: url('images/regidores/Arabela-Hoppe-Mercado-768x734.jpg');
+			
+		}
+		.cimgReg.septima{
+			background-image: url('images/regidores/Rita-Maria-Del-Carmen-Garduno-Rivera-768x734.jpg');
+			
+		}
+		.cimgReg.octavo{
+			background-image: url('images/regidores/Julio-Becerril-Santos-768x734.jpg');
+			
+		}
+		.cimgReg.decimoSegundo{
+			background-image: url('images/regidores/Arturo-Nava-Alanis-768x734.jpg');
+			
+		}
+		/* Regidores Moviles*/
 		.ctxtReg{
 			position: absolute;
 			background-color: #607D8B;

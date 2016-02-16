@@ -17,7 +17,7 @@
 										<li><a href="#">Texto</a></li>
 									</ul>
 								</li> -->
-								<li><a href="#">Organigrama</a></li>
+								<li><a href="ayuntaOrgani.php">Organigrama</a></li>
 								<li>
 									<a href="#">Dependencias y Organismos</a>
 									<ul>

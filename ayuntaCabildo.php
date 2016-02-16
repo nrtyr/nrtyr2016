@@ -25,23 +25,23 @@ include('assets/inc/nav.inc');
 					</div>
 					<br>
 					<div class="cuadroReg">
-						<div class="cimgReg mujer"></div>
+						<div class="cimgReg primera"></div>
 						<div class="ctxtReg"><span>PRIMERA REGIDORA<br>KRISEL GABRIELA OLIVARES HERNÁNDEZ<br>58233021 EXT 116</span></div>
 					</div>
 					<div class="cuadroReg">
-						<div class="cimgReg hombre"></div>
+						<div class="cimgReg segundo"></div>
 						<div class="ctxtReg"><span>SEGUNDO REGIDOR<br>FERNANDO GARIBAY PALOMINO<br>58233021 EXT 117</span></div>
 					</div>
 					<div class="cuadroReg">
-						<div class="cimgReg mujer"></div>
+						<div class="cimgReg tercera"></div>
 						<div class="ctxtReg"><span>TERCERA REGIDORA<br>KARLA TREJO HERNANDEZ<br>58233021 EXT 118</span></div>
 					</div>
 					<div class="cuadroReg">
-						<div class="cimgReg hombre"></div>
+						<div class="cimgReg cuarto"></div>
 						<div class="ctxtReg"><span>CUARTO REGIDOR<br>JOAN MANUEL HERNÁNDEZ ANAYA<br>58233021 EXT 253</span></div>
 					</div>
 					<div class="cuadroReg">
-						<div class="cimgReg mujer"></div>
+						<div class="cimgReg quinta"></div>
 						<div class="ctxtReg"><span>QUINTA REGIDORA<br>ARABELA HOPPE MERCADO<br>58233021 EXT 120</span></div>
 					</div>
 					<div class="cuadroReg">
@@ -49,16 +49,16 @@ include('assets/inc/nav.inc');
 						<div class="ctxtReg"><span>SEXTO REGIDOR<br>DONATO ZAMORA ROSAS<br>58233021 EXT 181</span></div>
 					</div>
 					<div class="cuadroReg">
-						<div class="cimgReg mujer"></div>
+						<div class="cimgReg septima"></div>
 						<div class="ctxtReg"><span>SEPTIMA REGIDORA<br><span class="txtLargo">RITA MARÍA DEL CARMEN GARDUÑO RIVERA</span><br>58233021 EXT 229</span></div>
 					</div>
 					<div class="cuadroReg">
-						<div class="cimgReg hombre"></div>
+						<div class="cimgReg octavo"></div>
 						<div class="ctxtReg"><span>OCTAVO REGIDOR<br>JULIO BECERRIL SANTOS<br>58233021 EXT 228</span></div>
 					</div>
 					<div class="cuadroReg">
 						<div class="cimgReg mujer"></div>
-						<div class="ctxtReg"><span>NOVENA REGIDORA<br>ROCIÓ DE LA CONCEPCIÓN ÁLVAREZ MORENO<br>58233021 EXT 124</span></div>
+						<div class="ctxtReg"><span>NOVENA REGIDORA<br><span class="txtLargo2">ROCIÓ DE LA CONCEPCIÓN ÁLVAREZ MORENO</span><br>58233021 EXT 124</span></div>
 					</div>
 					<div class="cuadroReg">
 						<div class="cimgReg hombre"></div>
@@ -69,7 +69,7 @@ include('assets/inc/nav.inc');
 						<div class="ctxtReg"><span>DECIMO PRIMER REGIDOR<br>NÉSTOR HUGO ÁLVAREZ VARGAS<br>58233021 EXT 226</span></div>
 					</div>
 					<div class="cuadroReg">
-						<div class="cimgReg hombre"></div>
+						<div class="cimgReg decimoSegundo"></div>
 						<div class="ctxtReg"><span>DECIMO SEGUNDO REGIDOR<br>ARTURO NAVA ALANÍS<br>58233021 EXT 227</span></div>
 					</div>
 					<div class="cuadroReg">
