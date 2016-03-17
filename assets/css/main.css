@@ -2149,13 +2149,19 @@
 			-webkit-background-size: cover;
 			     -o-background-size: cover;
 			        background-size: cover;
-			margin-left: 80px;
+			margin-left: 35px;
 			
 		}
 		.cuadroNRc2{
 			margin: 40px auto;
 			display: inline-block;
 			width: 400px;
+			
+		}
+		.cuadroNRc4{
+			margin: 40px auto;
+			display: inline-block;
+			width: 490px;
 			
 		}
 		.cuadroNRc3{
@@ -2169,7 +2175,7 @@
 			-webkit-background-size: cover;
 			     -o-background-size: cover;
 			        background-size: cover;
-			margin-right: 80px;
+			margin-right: 35px;
 			
 		}
 		
@@ -2178,36 +2184,8 @@
 
 		/* Cuadro Articulo */
 		
-		.formConvoca{
-			clear: both;
-			margin: 0px auto;
-			padding: 10px;
-			text-align: left;
-			width: 50%;
-			background-color: red;
-		}
-		.formConvoca *{
-			margin: 0px;
-			padding: 0px;
-		}
-		.formConvoca input[type="text"]{
-			border: 1px solid #DBE1EB;
-  font-size: 18px;
-  font-family: Arial, Verdana;
-  padding-left: 7px;
-  padding-right: 7px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  border-radius: 4px;
-  -moz-border-radius: 4px;
-  -webkit-border-radius: 4px;
-  -o-border-radius: 4px;
-  background: #FFFFFF;
-  background: linear-gradient(left, #FFFFFF, #F7F9FA);
-  background: -moz-linear-gradient(left, #FFFFFF, #F7F9FA);
-  background: -webkit-linear-gradient(left, #FFFFFF, #F7F9FA);
-  background: -o-linear-gradient(left, #FFFFFF, #F7F9FA);
-  color: #2E3133;
+		.cuadroDForm{
+			text-align: center;
 		}
 
 		.bloqueArticulo{
@@ -2302,6 +2280,12 @@
 		/* Cuadro Articulo */
 
 		/* cuadroDir Desktop*/	
+		.formFame{
+			margin: 0px auto;
+			width: 100%;
+			height: 840px;
+		}
+
 		
 		.cuadroDir{
 			text-align: center;
@@ -2722,7 +2706,14 @@
 
 		/* Cuadro Articulo Movil */
 		
-
+		.txtOculto{
+			display: none;
+		}
+		
+		.cuadroDForm{
+			margin-top: 74px;
+			text-align: center;
+		}
 		.bloqueArticulo{
 			clear: both;
 			display: block;
@@ -2731,6 +2722,9 @@
 			margin: 0px auto;
 		}
 		.bloqueArticulo h2{
+			margin-top: 100px;
+		}
+		.bloqueArticulo h3.encaH3{
 			margin-top: 100px;
 		}
 		.pArticulo{
@@ -2799,6 +2793,11 @@
 
 
 		/* cuadroDir Movile*/	
+		.formFame{
+			margin: 0px auto;
+			width: 100%;
+			height: 840px;
+		}
 		.cuadroDir{
 			margin-top: -5%;
 			text-align: center;

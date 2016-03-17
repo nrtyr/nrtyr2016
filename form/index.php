@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Form</title>
-</head>
-<body>
-	
-</body>
+<html>
+	<head>
+		<meta http-equiv="REFRESH" content="0; url=protected/php/form.php">
+	</head>
 </html>

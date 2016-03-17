@@ -6,15 +6,13 @@ include('assets/inc/nav.inc');
 				<header id="header">
 					<div class="logo container">
 						<div>
-							<h1><a href="#" id="logo">CONSULTA CIUDADANA</a></h1>
+							<h1><a href="#" id="logo">CONVOCATORIA DE FOROS DE CONSULTA CIUDADANA</a></h1>
 						</div>
 					</div>	
 				</header>
-				<article class="bloqueArticulo">
-					<h2>Plan de Desarrollo Municipal</h2>
-					<br>
-						<iframe src="form/index.php" frameborder="0"></iframe>
-				</article>
+				<div class="cuadroDForm">
+					<iframe src="form/index.php" frameborder="0" class="formFame"></iframe>
+				</div>
  <?php 
 include("assets/inc/footer.inc");
   ?>

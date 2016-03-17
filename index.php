@@ -5,8 +5,8 @@ include('assets/inc/nav.inc');
 include("slide/slide.php");
 include("assets/inc/main.inc");
 include("assets/inc/features.inc");
-include("assets/inc/blog.inc");
-include("assets/inc/archive.inc");
+include("assets/inc/copaci.inc");
+include("assets/inc/sociales.inc");
 include("assets/inc/interes.inc");
 include("assets/inc/footer.inc");
  ?>
