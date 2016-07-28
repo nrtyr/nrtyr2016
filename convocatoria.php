@@ -178,6 +178,9 @@ include('assets/inc/nav.inc');
 						</p>
 						<br>
 						<p>Nicolás Romero, 09 de febrero de 2016</p>
+						<a href="formConvoca.php" class="button">Participa</a>
+						<br>
+						<br>
 
 					
 				</article>

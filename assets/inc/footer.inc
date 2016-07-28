@@ -47,7 +47,7 @@
 							<ul class="menu">
 								<li>&copy; Todos los derechos reservados</li><li>Creado por: <a href="#">H. Ayuntamiento de Nicolás Romero 2016 - 2018</a></li>
 								<br>
-								<p>Av. Juarez s/n Col. Centro Nicolás Romero, Estado de México C.P. 54400 Tel: 58-71-25-00</p>
+								<p>Av. Juarez s/n Col. Centro Nicolás Romero, Estado de México C.P. 54400 Tel: 53-71-25-00</p>
 							</ul>
 						</div>
 

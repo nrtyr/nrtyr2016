@@ -6,5 +6,6 @@
 		<img src="slide/img/nada.png" alt="img 1" class="overlay">
 		<img src="slide/img/nada.png" alt="img 2" class="overlay2">
 		<img src="slide/img/nada.png" alt="img 2" class="overlay3">
+
 		
 </div>

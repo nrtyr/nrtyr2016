@@ -585,7 +585,7 @@ include('assets/inc/nav.inc');
 					<br>
 					</p>
 					
-						<p>Nicolás Romero, 16 de Marzo de 2016</p>
+						<p>Nicolás Romero, 15 de Marzo de 2016</p>
 
 					
 				</article>

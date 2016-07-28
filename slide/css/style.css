@@ -33,6 +33,14 @@
 			background-size: cover;
 			z-index: 1;
 		}
+		.overlay4{
+			position: relative;
+			background-image: url("img/banner4.jpg");
+			background-position: center center;
+			background-repeat:  no-repeat;
+			background-size: cover;
+			z-index: 1;
+		}
 		.cycle-slideshow{
 			width: 100%;
 			max-width: 2000px;

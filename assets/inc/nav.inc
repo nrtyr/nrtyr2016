@@ -5,7 +5,7 @@
 						<li>
 							<a href="#">Ayuntamiento</a>
 							<ul>
-								<li><a href="#">Mensaje de la Presidenta</a></li>
+								<li><a href="mensaje.php">Mensaje de la Presidenta</a></li>
 								<li><a href="ayuntaBando.php">Bando Municipal</a></li>
 								<li><a href="ayuntaCabildo.php">Cabildo</a></li>
 								<!-- <li>
@@ -23,20 +23,26 @@
 									<ul>
 										<li><a href="#">DIF</a></li>
 										<li><a href="#">IMCUFIDE</a></li>
-										<li><a href="#">SAPASNIR</a></li>
+										<li><a href="http://www.sapasnir.mx">SAPASNIR</a></li>
 									</ul>
 								</li>
 							</ul>
 						</li>
-						<li><a href="#">Trámites y Servicios</a>
-							<ul>
-								<li><a href="#">Bolsa de Trabajo</a></li>
-								<li><a href="#">Cartilla Militar</a></li>
-								<li><a href="#">Pago de Predial</a></li>
-								<li><a href="#">Pago de Agua</a></li>
-								<li><a href="#">Registro Civil</a></li>
-								<li><a href="#">Servicios Públicos</a></li>
-							</ul>
+						<li><a href="tramServ.php">Trámites y Servicios</a>
+<!-- 							<ul>
+								<li><a href="pdf/tramitesServicios/CARTILLAS.pdf" target="_blank">Cartillas</a></li>
+								<li><a href="#" target="_blank">Catastro</a></li>
+								<li><a href="#" target="_blank">Constancias</a></li>
+								<li><a href="pdf/tramitesServicios/CONTRALORIA.pdf" target="_blank">Contraloría</a></li>
+								<li><a href="pdf/tramitesServicios/DESARROLLO_ECONOMICO.pdf" target="_blank">Desarrollo Eco.</a></li>
+								<li><a href="pdf/tramitesServicios/DESARROLLO_URBANO.pdf" target="_blank">Desarrollo Urb.</a></li>
+								<li><a href="pdf/tramitesServicios/EDUCACION.pdf" target="_blank">Educación</a></li>
+								<li><a href="#" target="_blank">IMCUFIDE</a></li>
+								<li><a href="pdf/tramitesServicios/MEDIO_AMBIENTE.pdf" target="_blank">Medio Ambiente</a></li>
+								<li><a href="pdf/tramitesServicios/NORMATIVIDAD.pdf" target="_blank">Normatividad</a></li>
+								<li><a href="pdf/tramitesServicios/OFICIALIA_COMUN_DE_PARTES.pdf" target="_blank">Oficialía Común</a></li>
+								<li><a href="#" target="_blank">Predial</a></li>
+							</ul> -->
 						</li>
 
 						<li><a href="https://www.facebook.com/H.Aytto.NicolasRomero">Noticias</a></li>

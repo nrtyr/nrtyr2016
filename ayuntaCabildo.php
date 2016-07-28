@@ -15,12 +15,12 @@ include('assets/inc/nav.inc');
 				<div class="regidores">
 
 					<div class="cuadroReg">
-						<div class="cimgReg mujer"></div>
+						<div class="cimgReg presidenta"></div>
 						<div class="ctxtReg"><span>PRESIDENTA MUNICIPAL<br>ANGELINA CARREÑO MIJARES</span></div>
 					</div>
 						<br>
 					<div class="cuadroReg">
-						<div class="cimgReg hombre"></div>
+						<div class="cimgReg sindico"></div>
 						<div class="ctxtReg"><span>SÍNDICO MUNICIPAL<br>JULIO CÉSAR ARROYO ÁNGULO<br>58233021 EXT 206 - 109 - 149</span></div>
 					</div>
 					<br>
@@ -45,7 +45,7 @@ include('assets/inc/nav.inc');
 						<div class="ctxtReg"><span>QUINTA REGIDORA<br>ARABELA HOPPE MERCADO<br>58233021 EXT 120</span></div>
 					</div>
 					<div class="cuadroReg">
-						<div class="cimgReg hombre"></div>
+						<div class="cimgReg sexto"></div>
 						<div class="ctxtReg"><span>SEXTO REGIDOR<br>DONATO ZAMORA ROSAS<br>58233021 EXT 181</span></div>
 					</div>
 					<div class="cuadroReg">
@@ -57,15 +57,15 @@ include('assets/inc/nav.inc');
 						<div class="ctxtReg"><span>OCTAVO REGIDOR<br>JULIO BECERRIL SANTOS<br>58233021 EXT 228</span></div>
 					</div>
 					<div class="cuadroReg">
-						<div class="cimgReg mujer"></div>
+						<div class="cimgReg novena"></div>
 						<div class="ctxtReg"><span>NOVENA REGIDORA<br><span class="txtLargo2">ROCIÓ DE LA CONCEPCIÓN ÁLVAREZ MORENO</span><br>58233021 EXT 124</span></div>
 					</div>
 					<div class="cuadroReg">
-						<div class="cimgReg hombre"></div>
+						<div class="cimgReg decimo"></div>
 						<div class="ctxtReg"><span>DECIMO REGIDOR<br>REYNALDO RAMÍREZ CHÁVEZ<br>58233021 EXT 125</span></div>
 					</div>
 					<div class="cuadroReg">
-						<div class="cimgReg hombre"></div>
+						<div class="cimgReg decimoPrimer"></div>
 						<div class="ctxtReg"><span>DECIMO PRIMER REGIDOR<br>NÉSTOR HUGO ÁLVAREZ VARGAS<br>58233021 EXT 226</span></div>
 					</div>
 					<div class="cuadroReg">
@@ -73,12 +73,12 @@ include('assets/inc/nav.inc');
 						<div class="ctxtReg"><span>DECIMO SEGUNDO REGIDOR<br>ARTURO NAVA ALANÍS<br>58233021 EXT 227</span></div>
 					</div>
 					<div class="cuadroReg">
-						<div class="cimgReg hombre"></div>
+						<div class="cimgReg decimoTercer"></div>
 						<div class="ctxtReg"><span>DECIMO TERCER REGIDOR<br>RICARDO RIVERA ESCALONA<br>58233021 EXT 122</span></div>
 					</div>
 					<br>
 					<div class="cuadroReg">
-						<div class="cimgReg hombre"></div>
+						<div class="cimgReg secretario"></div>
 						<div class="ctxtReg"><span>SECRETARIO DEL H. AYUNTAMIENTO<br>ISRAEL SARABIA GARCÍA<br>58233021 EXT 107</span></div>
 					</div>
 

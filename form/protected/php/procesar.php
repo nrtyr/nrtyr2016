@@ -14,7 +14,7 @@ if (isset($_POST['txtNombre']) && !empty($_POST['txtNombre']) &&
 
 // Salida del Correo
 
-	$email_to = "sistemas@nicolasromero.mx";
+	$email_to = "sistemas@nicolasromero.mx, uippenr@nicolasromero.mx";
 	$email_subject = "Consulta Ciudadana";
 
 // Salida del Correo
@@ -32,8 +32,10 @@ if (isset($_POST['txtNombre']) && !empty($_POST['txtNombre']) &&
 
 //Contenido del Correo
 
-	// Ahora se envía el e-mail usando la función mail() de PHP
+	
+	// El header_ Transforma todo en español UTF8
  	$header_ = 'MIME-Version: 1.0' . "\r\n" . 'Content-type: text/plain; charset=UTF-8' . "\r\n";
+	// Ahora se envía el e-mail usando la función mail() de PHP
 	@mail($email_to, $email_subject, $email_message, $header_);
 
 

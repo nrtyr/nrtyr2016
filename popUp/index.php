@@ -17,7 +17,7 @@
 	<div class="modal-box" id="modal-content">
     <div class="inner">
         <button class="close">&times;</button>
-        <a href="../ayuntaBando.php"><img src="img/bando.jpg"  class="imagenPop" alt=""></a>
+        <a href="../cienDias.php"><img src="img/100Dias.jpg"  class="imagenPop" alt=""></a>
     </div>
 	</div>
 
