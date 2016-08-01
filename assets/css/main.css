@@ -2294,6 +2294,12 @@
 			text-align: center;
 			background-color: #DAE5CB;
 		}
+		.cTab.reca.dos{
+			font-weight: bold;
+			padding: 0px 10px 10px 20px;
+			text-align: left;
+			background-color: #DAE5CB;
+		}
 		.cTab.reca.f{
 			-webkit-border-radius: 0px 0px 0px 10px;
 			        border-radius: 0px 0px 0px 10px;

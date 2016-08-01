@@ -8,6 +8,7 @@
 								<li><a href="mensaje.php">Mensaje de la Presidenta</a></li>
 								<li><a href="ayuntaBando.php">Bando Municipal</a></li>
 								<li><a href="ayuntaCabildo.php">Cabildo</a></li>
+								<li><a href="directorio.php">Directorio</a></li>
 								<!-- <li>
 									<a href="#">Texto</a>
 									<ul>
