@@ -7,6 +7,7 @@ include("assets/inc/main.inc");
 include("assets/inc/features.inc");
 include("assets/inc/empresas.inc");
 include("assets/inc/sociales.inc");
+include("assets/inc/vacunacion.inc");
 include("assets/inc/interes.inc");
 include("assets/inc/footer.inc");
  ?>

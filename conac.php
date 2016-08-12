@@ -756,7 +756,7 @@ include('assets/inc/nav.inc');
 						<i class="fa fa-file-pdf-o"></i> A Norma para armonizar la presentación de la información adicional a la iniciativa de la Ley de Ingresos. </i>
 					</a></li>
 					
-					<li><a href="#">
+					<li><a href="pdf/segundo_trimestre_2016IMCUFIDE/1b.pdf">
 						<i class="fa fa-file-pdf-o"></i> B Norma para armonizar la presentación de la información adicional del Proyecto del Presupuesto de Egresos. </i>
 					</a></li>
 					</div>
