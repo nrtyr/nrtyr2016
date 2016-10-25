@@ -19,7 +19,7 @@
 		}
 		.overlay2{
 			position: relative;
-			background-image: url("img/banner2.png");
+			background-image: url("img/banner.png");
 			background-position: center center;
 			background-repeat:  no-repeat;
 			background-size: cover;
@@ -27,7 +27,7 @@
 		}
 		.overlay3{
 			position: relative;
-			background-image: url("img/banner3.png");
+			background-image: url("img/banner5.png");
 			background-position: center center;
 			background-repeat:  no-repeat;
 			background-size: cover;
@@ -35,7 +35,7 @@
 		}
 		.overlay4{
 			position: relative;
-			background-image: url("img/banner4.jpg");
+			background-image: url("img/banner5.jpg");
 			background-position: center center;
 			background-repeat:  no-repeat;
 			background-size: cover;

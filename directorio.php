@@ -54,8 +54,8 @@ include('assets/inc/nav.inc');
 							</tr>
 								<td class="cTab reca dos"><a href="pdf/cvs/DE_LA_PORTILLA_CASTANEDA_MARIA_NERIDA.pdf">DE LA PORTILLA CASTAÑEDA MARIA NERIDA</a></td>
 								<td class="cTab"><a href="pdf/cvs/DE_LA_PORTILLA_CASTANEDA_MARIA_NERIDA.pdf">DIRECTOR</a></td>
-								<td class="cTab"><a href="pdf/cvs/DE_LA_PORTILLA_CASTANEDA_MARIA_NERIDA.pdf">DIRECCION GENERAL DE EDUCACION Y CULTURA</a></td>
-								<td class="cTab"><a href="pdf/cvs/DE_LA_PORTILLA_CASTANEDA_MARIA_NERIDA.pdf">16603012</a></td>
+								<td class="cTab"><a href="pdf/cvs/DE_LA_PORTILLA_CASTANEDA_MARIA_NERIDA.pdf">DIRECCION GENERAL DESARROLLO ECONOMICO</a></td>
+								<td class="cTab"><a href="pdf/cvs/DE_LA_PORTILLA_CASTANEDA_MARIA_NERIDA.pdf">58235407</a></td>
 							</tr>
 							</tr>
 								<td class="cTab reca dos"><a href="pdf/cvs/GONZALEZ_ROSAS_ANGEL_EDEN.pdf">GONZALEZ ROSAS ANGEL EDEN</a></td>
@@ -84,8 +84,8 @@ include('assets/inc/nav.inc');
 							</tr>
 								<td class="cTab reca dos"><a href="pdf/cvs/MENDOZA_BECERRIL_JUANA.pdf">MENDOZA BECERRIL JUANA</a></td>
 								<td class="cTab"><a href="pdf/cvs/MENDOZA_BECERRIL_JUANA.pdf">DIRECTOR</a></td>
-								<td class="cTab"><a href="pdf/cvs/MENDOZA_BECERRIL_JUANA.pdf">DIRECCION GENERAL DESARROLLO ECONOMICO</a></td>
-								<td class="cTab"><a href="pdf/cvs/MENDOZA_BECERRIL_JUANA.pdf">58235407</a></td>
+								<td class="cTab"><a href="pdf/cvs/MENDOZA_BECERRIL_JUANA.pdf">DIF</a></td>
+								<td class="cTab"><a href="pdf/cvs/MENDOZA_BECERRIL_JUANA.pdf">16603654</a></td>
 							</tr>
 							</tr>
 								<td class="cTab reca dos"><a href="pdf/cvs/ZERMENO_CRUZ_PATRICIA_ELIZABETH.pdf">ZERMEÑO CRUZ PATRICIA ELIZABETH</a></td>
@@ -97,7 +97,7 @@ include('assets/inc/nav.inc');
 								<td class="cTab reca dos"><a href="#">LOPEZ JIMENEZ ESTEBAN RAUL</a></td>
 								<td class="cTab"><a href="#">DIRECTOR</a></td>
 								<td class="cTab"><a href="#">DIRECCION DE SALUD</a></td>
-								<td class="cTab"><a href="#">S/N</a></td>
+								<td class="cTab"><a href="#">171</a></td>
 							</tr>
 							</tr>
 								<td class="cTab reca dos"><a href="pdf/cvs/FRAGOSO_SANCHEZ_ADRIANA.pdf">FRAGOSO SANCHEZ ADRIANA</a></td>
@@ -119,9 +119,9 @@ include('assets/inc/nav.inc');
 							</tr>
 							</tr>
 								<td class="cTab reca dos"><a href="pdf/cvs/FLORES_VAZUEZ_ELIZABETH.pdf">FLORES VAZQUEZ ELIZABETH</a></td>
-								<td class="cTab"><a href="pdf/cvs/FLORES_VAZUEZ_ELIZABETH.pdf">DIRECTOR</a></td>
-								<td class="cTab"><a href="pdf/cvs/FLORES_VAZUEZ_ELIZABETH.pdf">DIF</a></td>
-								<td class="cTab"><a href="pdf/cvs/FLORES_VAZUEZ_ELIZABETH.pdf">16603654</a></td>
+								<td class="cTab"><a href="pdf/cvs/FLORES_VAZUEZ_ELIZABETH.pdf">SECRETARIA</a></td>
+								<td class="cTab"><a href="pdf/cvs/FLORES_VAZUEZ_ELIZABETH.pdf">SECRETARÍA DEL H. AYUNTAMIENTO</a></td>
+								<td class="cTab"><a href="pdf/cvs/FLORES_VAZUEZ_ELIZABETH.pdf">107</a></td>
 							</tr>
 							</tr>
 								<td class="cTab reca dos"><a href="pdf/cvs/GARCIA_GOMEZ_JOSE_GUADALUPE.pdf">GARCIA GOMEZ JOSE GUADALUPE</a></td>

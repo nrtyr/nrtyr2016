@@ -47,6 +47,15 @@
 						</li>
 
 						<li><a href="https://www.facebook.com/H.Aytto.NicolasRomero">Noticias</a></li>
-						<li><a href="http://www.ipomex.org.mx/ipo/portal/nicolasromero.web">Transparencia</a></li>
+<!-- 						<li><a href="http://www.ipomex.org.mx/ipo/portal/nicolasromero.web">Transparencia</a></li> -->
+						<li>
+							<a href="#">Transparencia</a>
+							<ul>
+								<li><a href="imco_legFiscal.php">Legislación Fiscal</a></li>
+								<li><a href="imco_rendCuentas.php">Rendición de Cuentas</a></li>
+								<li><a href="imco_Deuda.php">Deuda</a></li>
+								<li><a href="imco_Admin.php">Administración</a></li>
+							</ul>
+						</li>
 					</ul>
 				</nav>

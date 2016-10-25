@@ -17,7 +17,7 @@
 	<div class="modal-box" id="modal-content">
     <div class="inner">
         <button class="close">&times;</button>
-        <a href="../cienDias.php"><img src="img/100Dias.jpg"  class="imagenPop" alt=""></a>
+        <a href="../pdf/AVISO_DE_PRIVACIDAD_NR.pdf"><img src="img/aviso.jpg"  class="imagenPop" alt=""></a>
     </div>
 	</div>
 

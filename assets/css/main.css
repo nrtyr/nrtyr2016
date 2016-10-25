@@ -2319,6 +2319,10 @@
 			-webkit-border-radius: 0px 10px 0px 0px;
 			        border-radius: 0px 10px 0px 0px;
 		}
+		.cuadroSuperCentrado{
+			margin: 0px auto;
+			width: 60%;
+		}
 		.cuadroArticulo{
 			display: block;
 			margin: 0px 20% 0px 20%;
