@@ -3,7 +3,7 @@
 
 								<!-- Blog -->
 									<section class="box blog">
-										<h2 class="major"><span>Blog Oficial de Nicolás Romero</span></h2>
+										<!-- <h2 class="major"><span>Blog Oficial de Nicolás Romero</span></h2> -->
 										<div>
 											<div class="row">
 												<div class="9u 12u(mobile)">
@@ -31,3 +31,8 @@
 
 													</div>
 												</div>
+											</div>
+										</div>
+									</section>
+							</div>
+</div>

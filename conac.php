@@ -225,7 +225,7 @@ include('assets/inc/nav.inc');
 					</a></li>
 
 					<!-- <li><a href="pdf/2c_IV_TRIM_Montos_Pagados_por_Ayudas_y_Subsidios_2015.pdf"> -->
-					<li><a href="#">
+					<li><a href="pdf/tercer_Trimestre_2015/2c.pdf">
 						<i class="fa fa-file-pdf-o"></i> C Norma para establecer la estructura de información de montos pagados por ayudas y subsidios.
 					</a></li>
 
@@ -240,7 +240,7 @@ include('assets/inc/nav.inc');
 					</p>
 
 					<div class="cuadroArticulo">
-					<li><a href="#">
+					<li><a href="pdf/tercer_Trimestre_2015/3a.pdf">
 						<i class="fa fa-file-pdf-o"></i> A Norma para establecer la estructura de información del formato de programas con recursos federales por orden de gobierno.
 					</a></li>
 					
@@ -257,29 +257,33 @@ include('assets/inc/nav.inc');
 						<i class="fa fa-file-pdf-o"></i> A  Norma para establecer la estructura de la información que las entidades federativas deberán presentar relativa a las aportaciones federales en materia de salud y los formatos de presentación. (NO APLICA)
 					</a></li>
 					
-					<li><a href="#">
+					<li><a href="pdf/tercer_Trimestre_2015/4b.pdf">
 						<i class="fa fa-file-pdf-o"></i> B Norma para establecer la estructura de información del formato de aplicación de recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal     (FORTAMUN).
 					</a></li>
 
-					<li><a href="#">
+					<li><a href="pdf/tercer_Trimestre_2015/4c.pdf">
 						<i class="fa fa-file-pdf-o"></i> C Normas y modelo de estructura de información relativa a los Fondos de Ayuda Federal para la Seguridad Pública.
 					</a></li>
 
 					<!-- <li><a href="pdf/4d_IV_TRIM_FORMATO_INF _OBLIG_PAGADERAS_O_GARANT_CON_FDOS_FED.pdf"> -->
-					<li><a href="#">
+					<li><a href="pdf/tercer_Trimestre_2015/4d.pdf">
 						<i class="fa fa-file-pdf-o"></i> D Norma para establecer la estructura de los formatos de información de obligaciones pagadas o garantizadas con fondos federales.
 					</a></li>
 
-					<li><a href="#">
+					<li><a href="pdf/tercer_Trimestre_2015/4e.pdf">
 						<i class="fa fa-file-pdf-o"></i> E Normas para establecer la estructura de información del formato del ejercicio y destino de gasto federalizado y reintegros.
 					</a></li>
 
-					<li><a href="#">
+					<li><a href="pdf/tercer_Trimestre_2015/4f.pdf">
+						<i class="fa fa-file-pdf-o"></i> F Norma para establecer la estructura del formato de la relación de bienes que componen el patrimonio del ente público.
+					</a></li>
+
+					<li><a href="pdf/tercer_Trimestre_2015/4g.pdf">
 						<i class="fa fa-file-pdf-o"></i> G Norma para establecer el formato para la difusión de los resultados de las evaluaciones de los recursos federales ministrados a las entidades federativas.
 					</a></li>
 					
 
-					<li><a href="#">
+					<li><a href="pdf/tercer_Trimestre_2015/4h.pdf">
 						<i class="fa fa-file-pdf-o"></i> H Lineamientos de información pública financiera para el Fondo de Aportaciones para la Infraestructura Social .
 					</a></li>
 					</div>

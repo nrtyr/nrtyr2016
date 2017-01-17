@@ -18,7 +18,8 @@ include('assets/inc/nav.inc');
 					</p> -->
 					<div class="cuadroSuperCentrado">
 					<div class="cuadroArticulo">
-					<li><a href="pdf/IMCO/admin/TRANSPARENCIA.pdf">
+					<li><a href="#">
+					<!-- <li><a href="http://nicolasromero.mx/nrtyr2016/index.php"> -->
 						<i class="fa fa-file-pdf-o"></i> Tabuladores. </i>
 					</a></li>
 					<li><a href="#">
