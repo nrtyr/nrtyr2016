@@ -78,8 +78,8 @@ include('assets/inc/nav.inc');
 					</div>
 					<br>
 					<div class="cuadroReg">
-						<div class="cimgReg mujer"></div>
-						<div class="ctxtReg"><span>SECRETARIA DEL H. AYUNTAMIENTO<br>ELIZABETH FLORES VAZQUEZ<br>58233021 EXT 107</span></div>
+						<div class="cimgReg hombre"></div>
+						<div class="ctxtReg"><span>SECRETARIO DEL H. AYUNTAMIENTO<br>ARMANDO FIDEL CHAVEZ SANTILLAN<br>58233021 EXT 107</span></div>
 					</div>
 
 				</div>

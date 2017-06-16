@@ -58,10 +58,10 @@ include('assets/inc/nav.inc');
 								<td class="cTab"><a href="pdf/cvs/DE_LA_PORTILLA_CASTANEDA_MARIA_NERIDA.pdf">58235407</a></td>
 							</tr>
 							</tr>
-								<td class="cTab reca dos"><a href="pdf/cvs/GONZALEZ_ROSAS_ANGEL_EDEN.pdf">GONZALEZ ROSAS ANGEL EDEN</a></td>
-								<td class="cTab"><a href="pdf/cvs/GONZALEZ_ROSAS_ANGEL_EDEN.pdf">DIRECTOR</a></td>
-								<td class="cTab"><a href="pdf/cvs/GONZALEZ_ROSAS_ANGEL_EDEN.pdf">DIRECCION GENERAL DE INFRAESTRUCTURA</a></td>
-								<td class="cTab"><a href="pdf/cvs/GONZALEZ_ROSAS_ANGEL_EDEN.pdf">192, 193, 194, 16605580</a></td>
+								<td class="cTab reca dos"><a href="#">GONZALEZ ROSAS JUAN CARLOS</a></td>
+								<td class="cTab"><a href="#">DIRECTOR</a></td>
+								<td class="cTab"><a href="#">DIRECCION GENERAL DE OBRAS PÚBLICAS E INFRAESTRUCTURA</a></td>
+								<td class="cTab"><a href="#">192, 193, 194, 16605580</a></td>
 							</tr>
 							</tr>
 								<td class="cTab reca dos"><a href="pdf/cvs/ZAMORA_OLVERA_BRAULIO.pdf">ZAMORA OLVERA BRAULIO</a></td>

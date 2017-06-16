@@ -42,10 +42,18 @@
 													<div class="cuadroInttxt"><h6>Nicolás Romero en la Historia</h6></div>
 												</a>
 												</div>
+												<div class="cuadroIntX">
+												<a href="http://www.ipomex.org.mx/ipo/lgt/indice/nicolasromero/evaluaciones/2017.web">
+													<div class="cuadroIntimg" id="pae"></div>
+													<div class="cuadroInttxt"><h6>Programa Anual de Evaluación</h6></div>
+												</a>
+												</div>
 												<br>
 												<br>
 
 												<!-- links de transparencia -->
+
+												
 
 												<div class="cuadroIntX">
 												<a href="http://www.infoem.org.mx">
@@ -53,12 +61,25 @@
 													<div class="cuadroInttxt2"><h6>infoem</h6></div>
 												</a>
 												</div>
+
+												<div class="cuadroIntX">
+												<a href="http://www.sarcoem.org.mx">
+													<div class="cuadroIntimg2" id="sarcoem"></div>
+													<div class="cuadroInttxt2"><h6>SARCOEM</h6></div>
+												</a>
+												</div>
+												
 												<div class="cuadroIntX">
 												<a href="http://www.saimex.org.mx/saimex/ciudadano/login.page">
 													<div class="cuadroIntimg2" id="saimex"></div>
 													<div class="cuadroInttxt2"><h6>SAIMEX</h6></div>
 												</a>
 												</div>
+												<div class="cuadroIntX">
+												<a href="http://www.ipomex.org.mx/ipo/portal/nicolasromero.web">
+													<div class="cuadroIntimg2" id="ipomex"></div>
+													<div class="cuadroInttxt2"><h6>ipomex</h6></div>
+												</a>
 												<!-- <div class="cuadroIntX">
 												<a href="#">
 													<div class="cuadroIntimg2" id="conac"></div>
